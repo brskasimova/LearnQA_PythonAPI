@@ -28,7 +28,7 @@ print(f"    POST /api/compare_query_type c параметром method='POST': �
 print(f"    PUT /api/compare_query_type c параметром method='PUT': статус код {response8.status_code}, ответ {response8.text}")
 print(f"    DELETE /api/compare_query_type c параметром method='DELETE': статус код {response9.status_code}, ответ {response9.text}")
 
-print(f"4 -")
+print(f"4 - ")
 list_methods = ["GET", "POST", "PUT", "DELETE"]
 result = []
 for i in list_methods:
