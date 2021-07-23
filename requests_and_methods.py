@@ -1,5 +1,4 @@
 import requests
-from random import choice
 
 url = "https://playground.learnqa.ru/api/compare_query_type"
 
